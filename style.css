@@ -24,3 +24,16 @@
   gap: 0.90rem;
   background-color:  #f3f3f3;
 }
+
+.identitas {
+  padding: 40px;
+  background-color: #f3f3f3;
+}
+.identitas h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #608BC1;
+}
+.identitas h3{
+  color: #608BC1;
+}
