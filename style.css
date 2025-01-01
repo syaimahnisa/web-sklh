@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #608BC1;
+}
+
+.logo img {
+    height: 40px;
+  }
+
+  .jumbotron{
+    background-image: url(gambar/4.png);
+    background-size: cover;
+    background-position: center center;
+    padding: 150px;
+}
+
+.jurusan{
+  background-color: #608BC1;
+}
+
+.offer-content{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, auto));
+  align-items: center;
+  gap: 0.90rem;
+  background-color:  #f3f3f3;
+}
